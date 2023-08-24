@@ -8,3 +8,4 @@ c. Informar quantas moedas estão guardadas no cofrinho.
 d. Informar quantas moedas de um certo tipo estão guardadas no cofrinho.
 e. Informar o valor total armazenado no cofrinho (em centavos).
 f. Informar o valor total armazenado no cofrinho (em reais).
+g. Esvaziar o cofrinho e mostrar o total perdido.
